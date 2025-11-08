@@ -25,4 +25,61 @@ Critical updates, assignment schedules, feedback reports, and announcements are 
 
 
 🎯 Key Features
+1.1. Secure Gmail & Classroom Integration
+
+OAuth2 authentication with scoped API permissions.
+
+Streamlined ingestion of academic data, attachments, and metadata.
+
+AI-level parsing for identifying due dates, courses, and deadlines from raw mail text.
+
+
+1.2Upcoming Deadlines
+
+Extracted directly from emails, attachments, and Classroom posts.
+
+NLP models parse due dates, submission portals, and evaluation weights.
+
+Real-time countdowns powered by MCP’s scheduling engine.
+
+1.3 📂 Document Repository
+
+Automatically identifies and classifies academic documents by course, instructor, and type (PDF, DOCX, PPT).
+
+Provides instant AI-generated summaries and direct preview capabilities.
+
+
+1.4 ⚠️ Schedule & Alerts
+
+AI-triggered alert system for events containing "Cancelled", "Rescheduled", "Urgent", or "Room Change".
+
+Immediate broadcast via Telegram, SMS, and Office Messaging channels.
+
+
+1.5 AI Intelligence Layer
+✨ Smart Categorization
+
+AI-driven tagging system that classifies every mail, document, and classroom post contextually — by subject, course code, and professor identity.
+
+🗓️ Auto Calendar Synchronization
+
+Automatically detects all academic dates — from lecture schedules to exams — and performs zero-click integration into Google Calendar.
+
+🧾 AI Document Summarization
+
+Summarizes long emails, attachments, and even nested documents directly within the dashboard.
+No downloads. No manual parsing. Just direct insight.
+
+💬 Context-Aware AI Email Reply
+
+The MCP’s Communication Module uses LLM inference to compose contextually relevant replies to academic mails — ensuring professional tone, brevity, and semantic alignment with the topic.
+
+
+
+
+
+
+
+
+
 
