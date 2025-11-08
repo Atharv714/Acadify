@@ -1,0 +1,25 @@
+{
+  "name": "revind-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Revind - AI-powered academic dashboard",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "watch": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "firebase-admin": "^13.4.0",
+    "googleapis": "^144.0.0",
+    "dotenv": "^17.2.2",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.9.2",
+    "tsx": "^4.20.5"
+  }
+}
